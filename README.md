@@ -1,46 +1,42 @@
-# Getting Started with Create React App
+# Ranked Choice Visualizer App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Setup
 
-## Available Scripts
+1. Clone repo
+2. `yarn install`
+3. `yarn start`
+4. Open `http://localhost:3000` in your browser
 
-In the project directory, you can run:
+### Backend server (for API)
 
-### `yarn start`
+1. Install ruby if you don't already have it
+1. `cd api`
+1. `bundle install`
+1. `bundle exec rackup`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## Prompt TODO:
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+- Basic UI + Layout
+- Round result UI
+- README Instructions
+- Ruby API for results
 
-### `yarn test`
+## Existing issues
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- Election board is reporting different results from our app. They said something about data integrity issues in the vote file that may require elimination of certain votes. Can you fix this? (Backend API)
+- A lot of warnings on the page. Can you fix them?
+- Navigation through rounds doesn't work, just shows the same round
 
-### `yarn build`
+## Feature Requests
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- Progress bar on candidate
+- Use data from API instead of mock data
+- Improve performance of results fetching
+- Candidate detail view shows per-round performance?
+- TBD
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Extensions/Discussion questions
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- Want to add multiple elections to site. What needs to change?
+- 
 
-### `yarn eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
