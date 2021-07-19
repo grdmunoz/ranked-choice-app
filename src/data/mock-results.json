@@ -34,27 +34,33 @@
   "candidates": [
     {
       "id": "1",
-      "name": "Dune"
+      "name": "Dune",
+      "bio": "Dune is a 1965 science-fiction novel by American author Frank Herbert, originally published as two separate serials in Analog magazine."
     },
     {
       "id": "2",
-      "name": "Snow Crash"
+      "name": "Snow Crash",
+      "bio": "Snow Crash is a science fiction novel by American writer Neal Stephenson, published in 1992."
     },
     {
       "id": "3",
-      "name": "The Three Body Problem"
+      "name": "The Three Body Problem",
+      "bio": "The Three-Body Problem (Chinese: 三体; lit. 'Three-Body'; pinyin: sān tǐ) is a science fiction novel by the Chinese writer Liu Cixin."
     },
     {
       "id": "4",
-      "name": "The Left Hand of Darkness"
+      "name": "The Left Hand of Darkness",
+      "bio": "The Left Hand of Darkness is a science fiction novel by U.S. writer Ursula K. Le Guin. Published in 1969, it became immensely popular, and established Le Guin's status as a major author of science fiction."
     },
     {
       "id": "5",
-      "name": "Neuromancer"
+      "name": "Neuromancer",
+      "bio": "Neuromancer is a 1984 science fiction novel by American-Canadian writer William Gibson. It is one of the best-known works in the cyberpunk genre and the only novel to win the Nebula Award, the Philip K. Dick Award, and the Hugo Award."
     },
     {
       "id": "6",
-      "name": "Roadside Picnic"
+      "name": "Roadside Picnic",
+      "bio": "Roadside Picnic (Russian: Пикник на обочине, Piknik na obochine, IPA: [pʲɪkˈnʲik nɐ ɐˈbotɕɪnʲe]) is a philosophical science fiction novel by Soviet-Russian authors Arkady and Boris Strugatsky, written in 1971 and published in 1972."
     }
   ]
 }

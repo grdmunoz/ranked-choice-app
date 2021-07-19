@@ -18,24 +18,36 @@
 
 - Basic UI + Layout
 - Round result UI
+- get rake routes working
 - README Instructions
 - Ruby API for results
 
-## Existing issues
-
-- Election board is reporting different results from our app. They said something about data integrity issues in the vote file that may require elimination of certain votes. Can you fix this? (Backend API)
-- A lot of warnings on the page. Can you fix them?
-- Navigation through rounds doesn't work, just shows the same round
-
 ## Feature Requests
 
-- Progress bar on candidate
+- Change Voting results / Candidates link colors when on page (see TODO in file)
+- Show percentage of votes in round instead of total votes
+- Result browser nav
+  - Clicking back in my browser should send me to the last round of results I viewed
+  - I should see the URL change as I navigate through each round
 - Use data from API instead of mock data
+
+## Known issues
+
+- Console warnings are pretty noisy. Can you fix them?
+- Clicking a round shifts the position of the other round links. Prevent the shift.
+- Clicking a round navigates to the wrong round.
+- The election board is reporting different results from our app. They said something about data integrity issues in the vote file that may require elimination of certain votes. Can you fix this?
+- Candidates page
+
+## Bonus
+
+- Show a progress bar on candidate
 - Improve performance of results fetching
+- There's an awful lot of literal flexbox code in one-off styled components. Is there a nice way to DRY this up a bit?
 - Candidate detail view shows per-round performance?
 - TBD
 
-## Extensions/Discussion questions
+## Discussion questions
 
 - Want to add multiple elections to site. What needs to change?
 - 
