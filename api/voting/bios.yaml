@@ -1,0 +1,28 @@
+candidates:
+  - id: solaris
+    name: Solaris
+    bio: Solaris is a 1961 science fiction novel by Polish writer Stanisław Lem. It follows a crew of scientists on a research station as they attempt to understand an extraterrestrial intelligence, which takes the form of a vast ocean on the titular alien planet.
+  - id: left_hand
+    name: The Left Hand of Darkness
+    bio: The Left Hand of Darkness is a science fiction novel by U.S. writer Ursula K. Le Guin. Published in 1969, it became immensely popular, and established Le Guin's status as a major author of science fiction.
+  - id: roadside_picnic
+    name: Roadside Picnic
+    bio: "Roadside Picnic (Russian: Пикник на обочине, Piknik na obochine, IPA: [pʲɪkˈnʲik nɐ ɐˈbotɕɪnʲe]) is a philosophical science fiction novel by Soviet-Russian authors Arkady and Boris Strugatsky, written in 1971 and published in 1972."
+  - id: neuromancer
+    name: Neuromancer
+    bio: Neuromancer is a 1984 science fiction novel by American-Canadian writer William Gibson. It is one of the best-known works in the cyberpunk genre and the only novel to win the Nebula Award, the Philip K. Dick Award, and the Hugo Award.
+  - id: androids
+    name: Do Androids Dream of Electric Sheep?
+    bio: "Do Androids Dream of Electric Sheep? (retitled Blade Runner: Do Androids Dream of Electric Sheep? in some later printings) is a dystopian science fiction novel by American writer Philip K. Dick, first published in 1968."
+  - id: three_body
+    name: Three Body Problem
+    bio: "The Three-Body Problem (Chinese: 三体; lit. 'Three-Body'; pinyin: sān tǐ) is a science fiction novel by the Chinese writer Liu Cixin."
+  - id: hitchhiker
+    name: The Hitchhiker's Guide to the Galaxy
+    bio: The Hitchhiker's Guide to the Galaxy (sometimes referred to as HG2G, HHGTTG, H2G2, or tHGttG) is a comedy science fiction franchise created by Douglas Adams. Originally a 1978 radio comedy broadcast on BBC Radio 4, it was later adapted to other formats, including stage shows, novels, comic books, a 1981 TV series, a 1984 video game, and 2005 feature film.
+  - id: dune
+    name: Dune
+    bio: Dune is a 1965 science-fiction novel by American author Frank Herbert, originally published as two separate serials in Analog magazine.
+  - id: snow_crash
+    name: Snow Crash
+    bio: Snow Crash is a science fiction novel by American writer Neal Stephenson, published in 1992.
