@@ -30,13 +30,12 @@ one, feel free to skip it and move to the next.
 
 Please try not to spend more than 2-3 hours in total on this assignment. You are
 not expected to complete all of the above steps but you should try to complete
-as many as you are comfortable getting to. If you have partial solutions, feel
-free to leverage the features of git and github to better isolate these for
-review.
+as many as you are comfortable getting through in a reasonable amount of time.
+If you have partial solutions to any of the above, feel free to leverage the
+features of git and github to better isolate them for review.
 
-You are expected to solve the prompt on your own. You are of course welcome to
-look up documentation, stack overflow posts, or any other standard development
-resources while completing this assignment.
+You are encouraged to look up documentation, stack overflow posts, or any other
+standard development resources while completing this assignment.
 
 ## Submission
 
@@ -68,20 +67,3 @@ majority of the votes or only two candidates remain. The candidate with the most
 votes at the end of this process wins. You can read [more about ranked-choice
 voting](https://en.wikipedia.org/wiki/Instant-runoff_voting) if you are so
 inclined, but this description should be sufficient to understand this app.
-
-
-TODO: REMOVE THESE FROM PROMPT REPO
-## Extensions
-
-- Show a progress bar on candidate
-- Improve performance of results fetching
-- There's an awful lot of literal flexbox code in one-off styled components. Is there a nice way to DRY this up a bit?
-- Candidates page looks pretty messy. 
-  - Card grid could be prettied up.
-  - Candidate cards could show which round they made it to
-- TBD
-
-## Discussion questions
-
-- Want to add multiple elections to site. What needs to change?
-- What would we need to "productionize" this application?
