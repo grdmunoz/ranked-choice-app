@@ -1,0 +1,15 @@
+require 'rubygems'
+require 'bundler/setup'
+require 'rake'
+
+task :environment do
+  require File.expand_path('config/application', __dir__)
+end
+
+task routes: :environment do
+  Votes::API.routes.each do |route|
+    method = route.request_method.ljust(10)
+    path = route.origin
+    puts "     #{method} #{path}"
+  end
+end

@@ -13,6 +13,7 @@
 1. `cd api`
 1. `bundle install`
 1. `bundle exec rackup`
+1. `bundle exec rake routes`
 
 ## Prompt TODO:
 
@@ -34,8 +35,7 @@
 ## Known issues
 
 - Console warnings are pretty noisy. Can you fix them?
-- Clicking a round shifts the position of the other round links. Prevent the shift.
-- Clicking a round navigates to the wrong round.
+- Clicking a round slightly shifts the position of the other round links. Prevent the shift.
 - The election board is reporting different results from our app. They said something about data integrity issues in the vote file that may require elimination of certain votes. Can you fix this?
 - Candidates page
 
