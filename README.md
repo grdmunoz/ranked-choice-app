@@ -19,8 +19,8 @@ one, feel free to skip it and move to the next.
    candidate in the round)
 4. Candidates should be ordered by the number of votes received in the round
 5. Round data should come from the API instead of the mock JSON
-6. Navigating between rounds should leverage browser navigation (current round
-   persists in URL, round clicks persist in native browser history navigation)
+6. Navigating between rounds should leverage browser navigation (round persists
+   in URL, rounds persist in native browser history navigation)
 7. Prevent the subtle shift in "Round X" text placement when clicking through
    the different rounds
 8. The election board is reporting different results than our API. They said
