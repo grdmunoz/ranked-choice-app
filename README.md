@@ -25,10 +25,10 @@ coordinator.
 
 1. Install ruby if you don't already have it
 1. `cd api`
-1. `bundle install`
-1. `bundle exec rackup`
+1. `bundle install && bundle exec rake db:setup`
+1. `bundle exec rails server`
 
-Run `bundle exec rake routes` to see all endpoints on the API.
+Run `bundle exec rails routes` to see all endpoints on the API.
 
 ## Background: Ranked choice voting
 
