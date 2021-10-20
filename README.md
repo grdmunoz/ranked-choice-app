@@ -13,6 +13,7 @@ coordinator.
 
 - [Variant A](/instructions/variant-a.md)
 - [Variant B](/instructions/variant-b.md)
+- [Variant C](/instructions/variant-c.md)
 
 ## App Setup
 

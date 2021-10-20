@@ -16,7 +16,7 @@ Please attempt to fix/implement the following in any order you choose.
 - Write an appropriate jest test for the logic responsible for rendering
   candidate vote percentages
 
-Please try not to spend more than 2-3 hours in total on this assignment. You are
+Please do not spend more than 2-3 hours in total on this assignment. You are
 not expected to complete all of the above steps but you should try to complete
 as many as you are comfortable getting through in a reasonable amount of time.
 If you have partial solutions to any of the above, feel free to leverage the
