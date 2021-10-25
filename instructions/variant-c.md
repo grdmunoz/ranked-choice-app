@@ -17,11 +17,11 @@ The design of both the API and the data layer is up to you.
 
 ## Expectations
 
-- Please do not spend more than 2-3 hours in total on this assignment. 
-- If you are not comfortable with Ruby/Ruby on Rails, you are more than welcome
-  to use a different language of your choice. Should you decide to do this,
-  please continue to use a SQL database and provide instructions for running
-  your solution.
+- Please do not spend more than 2-3 hours in total on this assignment.
+- If you are not confident working with Ruby/Ruby on Rails, you are encouraged
+  to implement your solution using a different language of your choice. Should
+  you decide to do this, please continue to use a SQL database and provide
+  instructions for running your solution.
 - Please document some way to check your work against the requirements. This can
   be in the form of a list of endpoints with seeded data, automated tests, or
   some other proof. 
