@@ -15,10 +15,6 @@ one, feel free to skip it and move to the next.
    in URL, rounds persist in native browser history navigation)
 7. Prevent the subtle shift in "Round X" text placement when clicking through
    the different rounds
-8. The election board is reporting different results than our API. They said
-   something about data integrity issues in the vote file that require the
-   elimination of certain ballots when tallying. Can you find the cause and fix
-   this?
 
 Please do not spend more than 2-3 hours in total on this assignment. You are
 not expected to complete all of the above steps but you should try to complete
